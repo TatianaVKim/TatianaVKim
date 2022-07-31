@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Tatiana, python-developer
+👋 Hi, I’m Tatiana, python-developer
